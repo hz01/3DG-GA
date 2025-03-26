@@ -1,0 +1,10 @@
+cmake
+opencv-python==4.6.0.66
+pillow==9.2.0
+pandas
+numpy
+matplotlib
+dlib==19.24.0
+scikit-image==0.19.3
+imutils==0.5.4
+numpy==1.23.0
